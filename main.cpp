@@ -5,6 +5,7 @@ using namespace std;
 
 int main() {
     int number;
+    Calculator calc;
     calc.get();
     number = calc.get_number();
     if (number == 1)
