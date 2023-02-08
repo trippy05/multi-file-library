@@ -18,7 +18,7 @@ public:
     double div();
     double expon();
 
-} calc;
+};
 
 
 
